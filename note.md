@@ -6,6 +6,7 @@
 - git commit
 - git log
 - git log --oneline
+- git checkout {branch_name}
 - git branch
-
+- git checkout -b {branch_name} 
 
